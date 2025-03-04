@@ -1,0 +1,24 @@
+[
+    {
+        "JSONzona": "Zona 1",
+        "JSONvolumeMax": 50,
+        "JSONlingua": "IT",
+        "JSONstato": "on",
+        "JSONvolumeCAMAX": 50,
+        "JSONsorgente": "A",
+        "JSONluminosita": "1m",
+        "JSONspegnimento": "15m",
+        "JSONmorsetto": "chiamataMic",
+        "JSONvolumeChiamataMax": 40,
+        "JSONvolumeMorsettoMax": 40,
+        "JSONpassword": "1234",
+        "JSONnomeSorgenteA": "Sorgente A",
+        "JSONnomeSorgenteB": "Sorgente B",
+        "JSONnomeSorgenteC": "Sorgente C",
+        "JSONsegnaleA": "2",
+        "JSONsegnaleB": "2",
+        "JSONsegnaleC": "2",
+        "JSONordine": "cartella-brano",
+        "JSONunita": "RD2502"
+    }
+]
